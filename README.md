@@ -10,6 +10,10 @@ A REST API (Representational State Transfer API) is a type of API that follows t
 - HTTP methods: Uses GET (retrieve), POST (create), PUT (update), DELETE (delete).
 - Scalable and flexible: Widely used due to simplicity and compatibility with web standards.
 
+## What Do We Use in Spring Boot?
+In Spring Boot, we typically use RESTful APIs — meaning we build APIs that follow the REST architecture using HTTP methods (GET, POST, PUT, DELETE) to handle CRUD operations on resources (like users, movies, products, etc.).
+
+
 ## CRUD API for Colleges
 ```zip
 college-api/
